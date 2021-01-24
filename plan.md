@@ -1,3 +1,7 @@
 steps to do:
-1. fix each todo item give it a proper position for text and icons
-2. get list item when click on delete button
+
+1. add a task complete function
+2. right color combination
+3. animation of when click on add button
+   an audio of displaying item
+   animation of displaying item
