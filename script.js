@@ -1,3 +1,4 @@
+
 let input_text=document.querySelector("#text__input");
 let add_btn=document.querySelector('#add__btn');
 const hitSound = new Audio("/assets/hitSound.mp3");
